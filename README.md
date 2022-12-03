@@ -1,4 +1,4 @@
-> [리팩토링 진행중입니다. 클릭하시면 리팩토링 브랜치로 이동합니다!](https://github.com/devyouth94/gomgom/tree/refactoring)
+> [리팩토링 진행중입니다. 클릭하시면 리팩토링 브랜치로 이동합니다!](https://github.com/devyouth94/gomgom-refactoring)
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/97172050/195974981-153e87c6-4f4c-4483-b7b0-61ca366e2802.png">
